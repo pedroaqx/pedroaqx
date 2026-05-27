@@ -4,11 +4,6 @@
 
 <br><br>
 
-<!-- GIF -->
-<img src="https://media.tenor.com/oqGfsUu13N4AAAAC/spike-spiegel-cowboy-bebop.gif" width="500"/>
-
-<br><br>
-
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/QA_ENGINEER-111111?style=for-the-badge&logo=github&logoColor=5DADE2"/>
 
@@ -19,7 +14,7 @@
 <br><br>
 
 <!-- STACK -->
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,mysql,postman" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,mysql" />
 
 <br><br>
 
@@ -30,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/API_Testing-111111?style=for-the-badge&logo=fastapi&logoColor=5DADE2"/>
 
-<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 
 </div>
 
