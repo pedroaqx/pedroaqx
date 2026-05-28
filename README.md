@@ -38,7 +38,6 @@
 - Pentester  
 - Linux User  
 - API Testing with Postman  
-- Knowledge in Kanban & Agile Methodologies  
 - Focused on Web Security and Recon  
 - Studying Software Quality & Security  
 - Experience with Linux and Security Tools  
