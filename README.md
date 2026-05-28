@@ -4,28 +4,31 @@
 
 <br><br>
 
-<!-- BADGES -->
+<img src="./assets/spike.gif" width="500"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/QA_ENGINEER-111111?style=for-the-badge&logo=github&logoColor=5DADE2"/>
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-111111?style=for-the-badge&logo=linux&logoColor=5DADE2"/>
 
 <img src="https://img.shields.io/badge/LINUX_USER-111111?style=for-the-badge&logo=archlinux&logoColor=5DADE2"/>
 
-<br><br>
-
-<!-- STACK -->
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,mysql" />
+<img src="https://img.shields.io/badge/TEST_AUTOMATION-111111?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
 
 <br><br>
 
-<!-- QA TOOLS -->
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,mysql,postman,selenium" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-
-<img src="https://img.shields.io/badge/Kanban-111111?style=for-the-badge&logo=trello&logoColor=5DADE2"/>
 
 <img src="https://img.shields.io/badge/API_Testing-111111?style=for-the-badge&logo=fastapi&logoColor=5DADE2"/>
 
-<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=FF6633"/>
+
+<img src="https://img.shields.io/badge/Selenium-111111?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
 
 </div>
 
@@ -38,6 +41,6 @@
 - Pentester  
 - Linux User  
 - API Testing with Postman  
+- Test Automation with Selenium  
 - Focused on Web Security and Recon  
 - Studying Software Quality & Security  
-- Experience with Linux and Security Tools  
