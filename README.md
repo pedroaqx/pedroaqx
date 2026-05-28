@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,mysql,postman,selenium" />
+<img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,github,vscode,docker,mysql,postman,selenium" />
 
 <br><br>
 
