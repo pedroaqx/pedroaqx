@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=5DADE2&center=true&vCenter=true&repeat=true&width=1000&height=120&lines=Cyber+Cowboy;QA+Engineer+%26+Cybersecurity;Pentester+from+Brazil" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=5DADE2&center=true&vCenter=true&repeat=true&width=1000&height=120&lines=Cyber+Cowboy;QA+Analyst+%26+Cybersecurity;Pentester+from+Brazil" />
 
 <br><br>
 
